@@ -5,7 +5,7 @@ jmp start
 message1: db 'HANGMAN', 0
 message2: db ' Guess the four letter word ! ', 0
 message3: db '___    ___    ___    ___ ', 0
-message4: db 'MADE BY FARZEEN IMRAN', 0
+message4: db 'MADE BY Mujtaba Zaidi', 0
 message5: db '--------------------------------------------------------------------------------', 0
 message6: db 'YOU WIN !', 0
 message7: db 'YOU LOSE !', 0
